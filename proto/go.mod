@@ -1,4 +1,4 @@
-module github.com/openfga/api/proto
+module github.com/8hz/openfga-api/proto
 
 go 1.22.3
 
